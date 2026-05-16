@@ -18,7 +18,7 @@
 
 Desenvolvedor back-end especialista em **Java** e **Kotlin**, com mais de 6 anos construindo APIs REST e sistemas de microserviços para grandes instituições financeiras brasileiras.
 
-Atualmente trabalhando no projeto **Las-Vegas** — APIs de autoatendimento para canais de voz, chat e e-mail. Paralelamente, cursando pós-graduação em **Inteligência Artificial e Sistemas Inteligentes** pela UFG.
+Atualmente trabalhando no projeto **Las-Vegas** — APIs de autoatendimento para canais de voz, chat e e-mail. Paralelamente, cursando pós-graduação em **Inteligência Artificial e Sistemas Inteligentes** && **Data Science e Estatística Aplicada** pela UFG.
 
 ```kotlin
 data class Developer(
