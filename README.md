@@ -78,13 +78,14 @@ data class Developer(
 ---
 
 ## 📊 GitHub Stats
-
+ 
 <div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=didamendes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/didamendes)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=didamendes&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/didamendes)
-
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=didamendes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=pt-br)](https://github.com/didamendes)
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=didamendes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/didamendes)
+ 
+[![GitHub Streak](https://streak-stats.demolab.com?user=didamendes&theme=tokyonight&hide_border=true&locale=pt_BR)](https://github.com/didamendes)
+ 
 </div>
 
 ---
